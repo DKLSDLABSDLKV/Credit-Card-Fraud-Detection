@@ -98,4 +98,4 @@ The Streamlit app is running at: **http://localhost:8501**
 
 ---
 
-*Last Updated: 2024*
+*Last Updated: 2025*
